@@ -1,0 +1,40 @@
+body
+        {
+            background-image: linear-gradient(to right, red , yellow);
+        }
+        p{
+            text-align: center;
+            font-style: italic;
+            font-size: 30px;
+        }
+          .box
+          {
+            width: 500px;
+            height: 300px;
+            float: left;
+            background-color: black;
+            margin-left: 20px;
+            border: 2px solid white;
+          }
+          .sliders{
+            margin-top: 20px;
+              text-align: center;
+              width: 100%;
+              opacity: 0.9;
+              background-image: linear-gradient(to left, red , yellow);
+              display: inline-block;
+          }
+          h2
+          {
+            color: white;
+            text-align: center;
+            font: 20px;
+          }
+          h1{
+
+            text-align: center;
+            color: black;
+          }
+          #slider{
+            width: 100px;
+          }

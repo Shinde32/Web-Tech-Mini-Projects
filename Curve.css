@@ -1,0 +1,51 @@
+body{
+
+          background-image: linear-gradient(to left,white,grey);
+        }
+    
+        div{
+            border-radius: 50%;
+            width:30px;
+            height:30px;
+            margin: auto;
+          
+        }
+        
+        #cnt1{
+                    background-color:black;
+                    position: absolute;
+                    top:20px;
+                    left:340px;
+         }
+         #cnt2{
+                    position:absolute;
+                    left:1000px;
+                    top:500px;
+                    background-color:black;
+         }
+         
+         #int1{
+                    position:absolute;
+                    left:0px;
+                    top:390px;
+                    background-color:red;
+         }
+         #int2{
+                    position:absolute;
+                    left:500px;
+                    top:300px;
+                    background-color:red;
+         }
+         canvas
+         {
+            height: 500px;
+            width: 1000px;
+            margin-left: 10%;
+         }
+         h1
+         {
+            font-style: bold italic;
+            font:black;
+            text-align: center;
+            font-size: 50px;
+         }
